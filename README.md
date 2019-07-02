@@ -2,7 +2,7 @@
 
 Hebra is a skeletal [Eleventy](https://11ty.io) starter kit that gives you nothing but good ol’ HTML and an RSS feed. It serves as the ideal kick-off point for your projects.
 
-<img src="https://hankchizljaw.imgix.net/hylia-github.jpg?auto=format&q=60" width="550" />
+<img src="https://res.cloudinary.com/andybelldesign/image/upload/f_auto/v1562075991/hebra/hebra_itwbco.png" width="550" />
 
 ## Features
 
@@ -51,11 +51,11 @@ This project is _super_ early and feedback is very much welcome. In order to kee
 The stuff that I need the most help with is:
 
 - Documentation
-- Accessibility 
+- Accessibility
 - Performance
 
 ## I need something with some CSS
 
-I’ve got your back. Check out [Hylia](https://github.com/andybelldesign/hylia), which is a much more fully-featured starter kit. 
+I’ve got your back. Check out [Hylia](https://github.com/andybelldesign/hylia), which is a much more fully-featured starter kit.
 
 [deploy-to-netlify]: https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/herbra
