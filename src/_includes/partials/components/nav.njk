@@ -1,6 +1,6 @@
 {% if navigation.items %}
-  <nav class="nav">
-    <ul class="[ nav__list ] [ box-flex align-center md:space-before ]">
+  <nav>
+    <ul>
       {% for item in navigation.items %}
         {% set externalAttribute = '' %}
         {% set currentAttribute = '' %}
@@ -13,7 +13,7 @@
           {% set currentAttribute = ' aria-current="page"' %}
         {% endif %}
 
-        <li class="nav__item">
+        <li>
           <a href="{{ item.url }}"{{ externalAttribute | safe }}{{ currentAttribute | safe }}>{{ item.text }}</a>
         </li>
       {% endfor %}
