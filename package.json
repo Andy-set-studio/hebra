@@ -1,0 +1,23 @@
+{
+  "name": "hebra",
+  "version": "0.1.0",
+  "description": "A skeletal, HTML only starter kit for Eleventy",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run serve",
+    "serve": "cross-env ELEVENTY_ENV=development npx eleventy --serve",
+    "production": "npx eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.8.3",
+    "@11ty/eleventy-plugin-rss": "^1.0.6",
+    "html-minifier": "^4.0.0",
+    "slugify": "^1.3.4"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0"
+  }
+}
