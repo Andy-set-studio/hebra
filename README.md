@@ -19,7 +19,7 @@ Hebra version 0.1.0 features:
 
 ### Method one: One-Click Deploy to Netlify
 
-You can [deploy Hylia to Netlify with one click][deploy-to-netlify] and you’ll be up and running in minutes!
+You can [deploy Hebra to Netlify with one click][deploy-to-netlify] and you’ll be up and running in minutes!
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)][deploy-to-netlify]
 
