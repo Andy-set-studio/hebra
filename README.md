@@ -25,7 +25,7 @@ You can [deploy Hebra to Netlify with one click][deploy-to-netlify] and you’ll
 
 ### Method two: Clone / Fork
 
-1. Clone or fork this repo: `git clone https://github.com/hankchizljaw/herbra`
+1. Clone or fork this repo: `git clone https://github.com/hankchizljaw/hebra`
 2. `cd` into the project directory and run `npm install`
 3. Once all the dependencies are installed run `npm start`
 4. Open your browser at `http://localhost:8080` and away you go!
@@ -58,4 +58,4 @@ The stuff that I need the most help with is:
 
 I’ve got your back. Check out [Hylia](https://github.com/hankchizljaw/hylia), which is a much more fully-featured starter kit.
 
-[deploy-to-netlify]: https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/herbra
+[deploy-to-netlify]: https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hebra
