@@ -25,7 +25,7 @@ You can [deploy Hebra to Netlify with one click][deploy-to-netlify] and you’ll
 
 ### Method two: Clone / Fork
 
-1. Clone or fork this repo: `git clone https://github.com/andybelldesign/herbra`
+1. Clone or fork this repo: `git clone https://github.com/hankchizljaw/hebra`
 2. `cd` into the project directory and run `npm install`
 3. Once all the dependencies are installed run `npm start`
 4. Open your browser at `http://localhost:8080` and away you go!
@@ -46,7 +46,7 @@ npm run production
 
 ## Get involved
 
-This project is _super_ early and feedback is very much welcome. In order to keep things running smooth, please consult the [contribution guide and code of conduct](https://github.com/andybelldesign/hebra/blob/master/contributing.md).
+This project is _super_ early and feedback is very much welcome. In order to keep things running smooth, please consult the [contribution guide and code of conduct](https://github.com/hankchizljaw/hebra/blob/master/contributing.md).
 
 The stuff that I need the most help with is:
 
@@ -56,6 +56,6 @@ The stuff that I need the most help with is:
 
 ## I need something with some CSS
 
-I’ve got your back. Check out [Hylia](https://github.com/andybelldesign/hylia), which is a much more fully-featured starter kit.
+I’ve got your back. Check out [Hylia](https://github.com/hankchizljaw/hylia), which is a much more fully-featured starter kit.
 
-[deploy-to-netlify]: https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/herbra
+[deploy-to-netlify]: https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hebra
